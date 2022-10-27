@@ -1,4 +1,6 @@
 # odin-recipes
-Introduction:
-HTML training project
-Object: Make a collection of recipes
+HTML project <br />
+Object: Make a collection of recipes <br />
+
+
+
